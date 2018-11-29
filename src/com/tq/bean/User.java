@@ -19,8 +19,10 @@ public class User {
 	}
 	@Override
 	public String toString() {
-		return "User [username=" + username + ", pwd=" + pwd + "]";
+		return "User===========>GGG[username=" + username + ", pwd=" + pwd + "]";
 	}
 	
-	
+	public void jokeRgg(){
+		System.out.println("stupid55555");
+	}
 }
