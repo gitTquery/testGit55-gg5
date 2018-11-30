@@ -10,6 +10,12 @@ public class TestStatic55 {
 		 System.out.println(tgdsg.length());
 	}
 	@Test
+	public  void tehdt(){
+		String fghj="人头送的和法国队人的飞天狗热风";
+		System.out.println(fghj);
+		
+	}
+	@Test
 	public  void testdsrfhrhdt(){
 		String  aa="client://go_credentialinfo_page?id=1102018102414301075200&share_user_id=";
 		String bb="id=";

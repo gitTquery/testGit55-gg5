@@ -9,7 +9,8 @@ public class User {
 		return username;
 	}
 	public void setUsername(String username) {
-		this.username = username;
+		System.out.println("---------->IGbb");
+		this.username = username+"=====>fucker";
 	}
 	public String getPwd() {
 		return pwd;
@@ -19,7 +20,9 @@ public class User {
 	}
 	@Override
 	public String toString() {
-		return "User===========>GGG[username=" + username + ", pwd=" + pwd + "]";
+		System.out.println("======ÅòÕÍUzi=============");
+		return "User===TGK====>GGG[username=" + username + ", pwd=" + pwd + "]";
+		
 	}
 	
 	public void jokeRgg(){
