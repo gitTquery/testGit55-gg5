@@ -19,10 +19,10 @@ public class User {
 	}
 	@Override
 	public String toString() {
-		return "User===========>GGG[username=" + username + ", pwd=" + pwd + "]";
+		return "User==LZ改了=====>GGG[username=" + username + ", pwd=" + pwd + "]";
 	}
 	
 	public void jokeRgg(){
-		System.out.println("stupid55555");
+		System.out.println("stupid555-----------------怎么的55");
 	}
 }
