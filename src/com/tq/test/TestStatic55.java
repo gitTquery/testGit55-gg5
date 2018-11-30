@@ -6,14 +6,8 @@ public class TestStatic55 {
 	
 	@Test
 	public  void testtrhdt(){
-		String  strgg="http://testweb.5u51.cn/1030762/gift_change/1102018102414301075200.html?action=2&shareUserId=10400059&sid=4cbe8d4b-bcaf-4953-b6d6-67ac09a68429 ";
-		String  aa="shareUserId=";
-		System.out.println(strgg.substring(strgg.indexOf(aa)+aa.length(),strgg.indexOf("&sid=") ));;
-		
-		String  url="a5u51tzqdz://a5u51/gogiftchangepage?gift_change_url=http://testweb.5u51.cn/1030762/gift_change/1102018102414301075200.html?action=2&shareUserId=10400059 ";
-				String  str="gift_change_url=";
-				String ggg=url.substring(url.indexOf(str)+str.length(), url.length());
-				System.out.println(ggg);
+		 String tgdsg="drtygGRE过后女人的";
+		 System.out.println(tgdsg.length());
 	}
 	@Test
 	public  void testdsrfhrhdt(){
