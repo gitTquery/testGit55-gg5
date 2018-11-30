@@ -6,7 +6,7 @@ public class TestStatic55 {
 	
 	@Test
 	public  void testtrhdt(){
-		System.out.println("==========>нди╜ль563333");
+		System.out.println("==========>WenSenTe563333");
 		String  strgg="http://testweb.5u51.cn/1030762/gift_change/1102018102414301075200.html?action=2&shareUserId=10400059&sid=4cbe8d4b-bcaf-4953-b6d6-67ac09a68429 ";
 		String  aa="shareUserId=";
 		System.out.println(strgg.substring(strgg.indexOf(aa)+aa.length(),strgg.indexOf("&sid=") ));;
